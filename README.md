@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Eslam
 
-<!--
-**Eslam61/Eslam61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Engineer  
+📊 Learning how to collect, clean, and transform data into useful insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Python for Data Engineering
+- SQL & Databases
+- Data Cleaning with Pandas
+- ETL Concepts
+
+---
+
+## 🛠️ Tools & Technologies
+- Python
+- SQL
+- Pandas
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- Data cleaning using Pandas
+- SQL practice queries
+- Simple ETL pipeline projects (learning stage)
+
+---
+
+## 📈 Goals
+- Build real-world data engineering projects
+- Improve problem-solving with data
+- Prepare for a junior data engineering role
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/eslam-data12
